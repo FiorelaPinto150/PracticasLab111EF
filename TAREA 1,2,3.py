@@ -74,7 +74,7 @@ def modificarEstudiante():
             nombreNuevo=input("Ingrese el Nuevo Nombre:")
             estudiantesNombres.insert(posicion1,nombreNuevo)
             print(mostrarEstudiantes())
-            print("♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥6156166♥♥♥♥")
+            print("♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥")
         if aux1=="apellido":
             aux2=estudiantesApellidos.pop(posicion1)
             apellidoNuevo=input("Ingrese el Nuevo Apellido:")
